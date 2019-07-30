@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #simple script for resizing images in all class directories
 #also reformats everything from whatever to png
 
