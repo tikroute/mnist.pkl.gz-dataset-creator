@@ -4,7 +4,7 @@ This simple script converts your own images to mnist.pkl.gz dataset to train you
 # how to use
 step 1: First prepare your images in 3 sets in 3 folders like below:
 
-tran
+train
 
 test
 
