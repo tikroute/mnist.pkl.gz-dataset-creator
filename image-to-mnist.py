@@ -23,7 +23,6 @@ def dir_to_dataset(glob_files, loc_train_labels=""):
     else:
         return np.array(dataset)
 
-
 Data1, y1 = dir_to_dataset("train/*.png","train.csv")
 Data2, y2 = dir_to_dataset("valid/*.png","valid.csv")
 Data3, y3 = dir_to_dataset("test/*.png","test.csv")
