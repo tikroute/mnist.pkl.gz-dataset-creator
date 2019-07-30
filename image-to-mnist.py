@@ -38,7 +38,7 @@ test_set_x = Data3[:1654]
 test_set_y = y3[:1654]
 
 
-# Divided dataset into 3 parts. I had 6281 images.
+# Divided dataset into 3 parts. I had 7717 images for training, 1653 images for validation and 1654 images for testing
 
 train_set = train_set_x, train_set_y
 val_set = val_set_x, val_set_y
