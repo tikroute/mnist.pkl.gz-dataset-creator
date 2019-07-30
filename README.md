@@ -1,4 +1,6 @@
 # mnist.pkl.gz-dataset-creator
+If you are using tutorial from deeplearning.net you might want to use your own set of data to train the model. you can easily create your mnist.pkl.gz dataset from scratch with your own images with this little tool. 
+
 This simple script converts your own images to mnist.pkl.gz dataset to train your model for DBN.py from deeplearning.net
 
 # how to use
